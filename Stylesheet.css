@@ -1,7 +1,7 @@
 body {
   background-color: rgb(82, 70, 241);
   background-image: url('FIBCLogoHighRes.png');
-  background-position: relative;
+  background-position: center-bottom;
   font-family: 'Times New Roman', Times, serif, 'Arial Narrow Bold', sans-serif;
   font-size: 24px;
 }
